@@ -1,0 +1,10 @@
+c:\users\diego.martinez\documents\visual studio 2015\Projects\DbVidzy\DbVidzy\bin\Debug\DbVidzy.exe.config
+c:\users\diego.martinez\documents\visual studio 2015\Projects\DbVidzy\DbVidzy\bin\Debug\DbVidzy.exe
+c:\users\diego.martinez\documents\visual studio 2015\Projects\DbVidzy\DbVidzy\bin\Debug\DbVidzy.pdb
+c:\users\diego.martinez\documents\visual studio 2015\Projects\DbVidzy\DbVidzy\bin\Debug\EntityFramework.dll
+c:\users\diego.martinez\documents\visual studio 2015\Projects\DbVidzy\DbVidzy\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\diego.martinez\documents\visual studio 2015\Projects\DbVidzy\DbVidzy\bin\Debug\EntityFramework.xml
+c:\users\diego.martinez\documents\visual studio 2015\Projects\DbVidzy\DbVidzy\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\diego.martinez\documents\visual studio 2015\Projects\DbVidzy\DbVidzy\obj\Debug\DbVidzy.csprojResolveAssemblyReference.cache
+c:\users\diego.martinez\documents\visual studio 2015\Projects\DbVidzy\DbVidzy\obj\Debug\DbVidzy.exe
+c:\users\diego.martinez\documents\visual studio 2015\Projects\DbVidzy\DbVidzy\obj\Debug\DbVidzy.pdb
